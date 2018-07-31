@@ -1,0 +1,4 @@
+language = 'english'
+translation = 'hello world'
+new_language = language.replace('english' , 'xhosa')
+new_translation = translation.replace('hello world' , 'molo lizwe')
